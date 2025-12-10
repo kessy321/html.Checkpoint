@@ -1,0 +1,67 @@
+/*This is to make the navbar display inline*/
+header{
+    display: inline;
+    font-family: 'roboto', sans-serif;
+}
+/*to give it a background colour and some styles*/
+nav{
+    background-color: black;
+    padding: 10px;
+}
+nav a{
+    color: white;
+    margin: 0.15px;
+    display: inline
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px
+}
+/*to style the about page*/
+.im{
+    font-family: 'roboto' sans-serif;
+    margin: 10px;
+}
+.sect{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}
+/*to style the contact page*/
+form{
+    max-width: 400px;
+    margin: 20px;
+    font-family: roboto sans-serif;
+}
+label{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+/*to style my resume*/
+h1 {
+    font-family: roboto sans-serif;
+    margin: 10px;
+    text-align: center;
+    max-width: 400px;
+    line-height: 1.6;
+
+}
+h2 {
+    display: inline;
+}
+/*to style my workpage*/
+h1{
+    margin: 10px;
+    
+}
